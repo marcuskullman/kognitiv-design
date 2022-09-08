@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Renders 1`] = `
+<div>
+  <form
+    data-testid="form"
+  >
+    <label>
+      MDE:
+    </label>
+    <input
+      name="MDE"
+      type="number"
+      value="66.66666666666667"
+    />
+    %
+    <br />
+    <br />
+    <label>
+      CR
+    </label>
+    <input
+      name="CR"
+      type="number"
+      value="40"
+    />
+    %
+  </form>
+</div>
+`;
