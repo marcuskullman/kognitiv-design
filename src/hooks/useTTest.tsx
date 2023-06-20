@@ -38,7 +38,6 @@ const pairedTest = (dataset: Dataset): number => {
   const sm = Math.sqrt(s2m)
   const tValue = Math.abs(m / sm)
 
-  // WIP - Beräkna P från T
   const df2 = df / 2
   const statisticalSignificance = ibeta(
     (tValue + Math.sqrt(tValue * tValue + df)) /

@@ -11,6 +11,7 @@ const App: FC = () => {
   const mockdata1 = require("./test/mockdata-1.json")
   const mockdata2 = require("./test/mockdata-2.json")
 
+  // TODO: Validera att Unpaired T-test beräknar rätt
   const unpairedTTest = useTTest({ dataset: mockdata1, type: "unpaired" })
   console.log("Unpaired T-test:", unpairedTTest)
 
