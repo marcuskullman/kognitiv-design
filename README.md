@@ -1,3 +1,9 @@
+# Kognitiv design: Kodexempel
+
+Innehåller fullständiga kodexempel relaterade till min bok "Kognitiv design", kapitel 3.
+Boken finns tillgänglig på Spotify, att läsa gratis online eller om du föredrar att ha den i hyllan att köpa av mig i bokform.
+Mer information hittar du på: [https://www.marcuskullman.com](https://www.marcuskullman.com)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
